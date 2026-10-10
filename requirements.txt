@@ -1,0 +1,4 @@
+qiskit>=1.2
+qiskit-aer>=0.15
+flask>=3.0
+pytest>=8.0
